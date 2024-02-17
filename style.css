@@ -8,15 +8,14 @@ a{
     background-color: blueviolet;
     border: solid white 5px;
     margin: 1%;
-    margin-bottom: 1%;
 }
 html{
     background-color: black;
 }
 img{
     border: solid gold 5px;
-    margin-top: 0%;
-    margin-left: 41%;
+    width: 50%;
+    margin-left: 25%;
 }
 .paragraph{
     color: azure;
