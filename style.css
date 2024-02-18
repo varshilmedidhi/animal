@@ -14,12 +14,41 @@ html{
 }
 img{
     border: solid gold 5px;
-    width: 50%;
-    margin-left: 25%;
+    width: 25%;
+    height: 25%;
+    padding:1%;
 }
 .paragraph{
     color: azure;
 }
 .text{
     color: aliceblue;
+}
+img{
+    display: inline-block;
+    float: left;
+}
+p{
+    font-size: 2rem;
+}
+.text{
+    clear: both;
+}
+#bobbydeol{
+    clear: both;
+}
+.cast>img{
+    border: solid gold 10px;
+}
+.cast>h1{
+    font-size: 5rem;
+    color: gold;
+}
+.cast> div{
+    position: relative;
+    top: 100px;
+}
+.cast> div>div{
+    position: relative;
+    top: 100px;
 }
